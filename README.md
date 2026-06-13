@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <strong>🇨🇳 中文版</strong> | <a href="./README_en.md">🇬🇧 English</a>
+</p>
+
+<p align="center">
   <a href="#0--全流程端到端自动科研">🧪 全流程</a> •
   <a href="#1--方向扫描与问题定义">🔭 方向扫描</a> •
   <a href="#2--文献研究检索精读综述与引用网络">📚 文献研究</a> •
